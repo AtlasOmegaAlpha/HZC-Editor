@@ -1,0 +1,30 @@
+HZC Viewer License
+
+Copyright (c) 2026 Atlas Vryzas Software - All rights reserved
+
+HZC Viewer ("the Software") and the Lumel Engine 3D Viewer Library
+("3D VIEWER LIBRARY FOR LUMEL ENGINE") are proprietary software distributed
+in compiled binary forms (HZCViewer.exe and its accompanying native libraries).
+
+Permission is granted, free of charge, to any person to use the Software and to
+redistribute it in its original, unmodified binary form, including as part of
+the accompanying software and its release packages, provided that this license
+and the accompanying THIRD-PARTY-NOTICES.txt are kept with it.
+
+All other rights are reserved. In particular, except to the extent that
+applicable mandatory law expressly permits otherwise (for example, decompilation
+for interoperability under such law), you may not:
+
+  - modify, adapt, translate, or create derivative works of the Software;
+  - reverse engineer, decompile, or disassemble the Software, or otherwise
+    attempt to derive its source code; or
+  - remove or alter this notice or the accompanying third-party notices.
+
+The Software includes third-party components; see THIRD-PARTY-NOTICES.txt.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
